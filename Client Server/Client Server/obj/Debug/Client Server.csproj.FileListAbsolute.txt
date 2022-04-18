@@ -1,0 +1,21 @@
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\obj\Debug\Client Server.csprojAssemblyReference.cache
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\obj\Debug\Client_Server.Form1.resources
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\obj\Debug\Client_Server.Properties.Resources.resources
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\obj\Debug\Client Server.csproj.GenerateResource.cache
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\obj\Debug\Client Server.csproj.CoreCompileInputs.cache
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\bin\Debug\Client Server.exe.config
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\bin\Debug\Client Server.exe
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\bin\Debug\Client Server.pdb
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\obj\Debug\Client Server.exe
+C:\Users\harri\Desktop\VStudio 2019\Client Server\Client Server\obj\Debug\Client Server.pdb
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\bin\Debug\Client Server.exe.config
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\bin\Debug\Client Server.exe
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\bin\Debug\Client Server.pdb
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\obj\Debug\Client Server.csproj.AssemblyReference.cache
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\obj\Debug\Client Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\obj\Debug\Client_Server.Form1.resources
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\obj\Debug\Client_Server.Properties.Resources.resources
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\obj\Debug\Client Server.csproj.GenerateResource.cache
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\obj\Debug\Client Server.csproj.CoreCompileInputs.cache
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\obj\Debug\Client Server.exe
+C:\Users\harri\OneDrive\Desktop\Client Server\Client Server\obj\Debug\Client Server.pdb
